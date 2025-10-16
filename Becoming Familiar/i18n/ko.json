@@ -48,7 +48,7 @@
   // Stuff in the settings menu. Only how much friendship supports new lines, though if you need them please feel free to ask.
   
 "settings.show-notifications": "알림 표시",
-"settings.show-notifications.description": “근처에 마을 사람이 있으면 알림을 표시합니다.”,
+"settings.show-notifications.description": "근처에 마을 사람이 있으면 알림을 표시합니다.",
 
 "settings.notification-duration": "알림 표시 시간",
 "settings.notification-duration.description": "알림이 표시되는 시간 (단위: 밀리초, 1000 = 1초)",
