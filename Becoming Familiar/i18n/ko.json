@@ -1,0 +1,64 @@
+{
+  // In Game notifications.datable. Please feel free to tweak. When Translating, please do not translate anything between {{ }} 's.
+"notifications.datable.0-heart": "{{villager}}(이)가 당신을 궁금한 듯 바라보네요.",
+"notifications.datable.1-heart": "{{villager}}(이)가 당신의 존재를 눈치챘어요.",
+"notifications.datable.2-heart": "{{villager}}(이)가 당신을 향해 미소 지어요.",
+"notifications.datable.3-heart": "{{villager}}(이)가 당신을 보자 미소를 짓고 있네요.",
+"notifications.datable.4-heart": "{{villager}}(이)가 활짝 웃었어요!",
+"notifications.datable.5-heart": "{{villager}}(이)가 친근하게 인사하고는 일을 이어갑니다.",
+"notifications.datable.6-heart": "{{villager}}(이)가 당신에 대해 몇 마디 하고 싶어하는 눈치예요.",
+"notifications.datable.7-heart": "{{villager}}(이)가 얼굴이 발그레졌어요.",
+"notifications.datable.8-heart": "{{villager}}(이)가 당신을 보자 들뜬 모습이에요!",
+"notifications.datable.9-heart": "{{villager}}(이)가 당신과 함께 있는 게 즐겁다고 말합니다.",
+"notifications.datable.10-heart": "{{villager}}(이)가 당신을 보고 기뻐하고 있어요!",
+"notifications.datable.11-heart": "{{villager}}(이)가 당신을 만나 무척 행복해 보여요!",
+"notifications.datable.12-heart": "{{villager}}(이)가 당신을 봐서 너무 행복해합니다!",
+"notifications.datable.13-heart": "{{villager}}(이)가 당신을 사랑한다고 외쳤어요!",
+"notifications.datable.14-heart": "{{villager}}(이)가 당신을 보자 너무 신이 난 모양입니다!",
+"notifications.datable.15-heart": "{{villager}}(이)가 당신을 사랑한다고 외쳤습니다!",
+  
+"notifications.non-datable.0-heart": "{{villager}}(이)가 호기심 어린 눈빛으로 당신을 바라봅니다.",
+"notifications.non-datable.1-heart": "{{villager}}(이)가 당신을 향해 미소 짓고 있네요.",
+"notifications.non-datable.2-heart": "{{villager}}(이)가 반갑게 손을 흔듭니다.",
+"notifications.non-datable.3-heart": "{{villager}}(이)가 밝게 \"안녕!\" 하고 인사해주네요.",
+"notifications.non-datable.4-heart": "{{villager}}(이)가 좀 더 자주 만나야겠다고 생각하는 모양이에요.",
+"notifications.non-datable.5-heart": "{{villager}}(이)가 술집에서 한 잔 하자고 제안했어요!",
+"notifications.non-datable.6-heart": "{{villager}}(이)가 즐겁게 하이파이브를 합니다!",
+"notifications.non-datable.7-heart": "{{villager}}(이)가 마을 이야기를 함께 나누고 싶어해요.",
+"notifications.non-datable.8-heart": "{{villager}}(이)가 새로 발견한 멋진 걸 자랑하고 싶은가봐요.",
+"notifications.non-datable.9-heart": "{{villager}}(이)가 친구처럼 농담을 던집니다.",
+"notifications.non-datable.10-heart": "{{villager}}(이)가 당신과 함께 있는 게 즐겁다고 말합니다!",
+"notifications.non-datable.11-heart": "{{villager}}(이)가 당신을 친구로 두어 정말 기쁘다고 말했습니다.",
+
+"notifications.random-message.0": "{{villager}}(이)가 품평회에서 회전판을 조작하는 요령을 알려줍니다.",
+"notifications.random-message.1": "{{villager}}(이)가 농장 남쪽 나무에 대해 이야기합니다.",
+"notifications.random-message.2": "{{villager}}(이)가 진지하게 말합니다: '낚시할 땐 인내가 필요하더라구요. 다만 제 인내는 물고기보다 빨리 도망가지만요...'",
+"notifications.random-message.3": "{{villager}}(이)가 전설의 물고기에 대해 이야기합니다.",
+  
+"notifications.child.0": "{{villager}}(이)가 당신을 스치듯 지나가며 달려갑니다.",
+"notifications.child.1": "{{villager}}(이)가 호기심 어린 눈빛으로 당신을 바라봅니다.",
+"notifications.child.2": "{{villager}}(이)가 신나게 달려와 발견한 멋진 것들을 자랑합니다!",
+"notifications.child.3": "{{villager}}(이)가 해맑게 손을 흔듭니다.",
+"notifications.child.4": "{{villager}}(이)가 당신을 보며 방긋 웃습니다.",
+"notifications.child.5": "{{villager}}(이)가 달려와 꼭 안아주고는 금세 도망갑니다.",
+"notifications.child.6": "{{villager}}(이)가 무언가 말하려다 장난감을 보고 정신없이 뛰어갑니다.",
+"notifications.child.7": "{{villager}}(이)가 당신을 보자 두 팔을 흔들며 신이 납니다!",
+"notifications.child.8": "{{villager}}(이)가 깔깔 웃으며 장난감 자동차를 당신 다리 위로 굴립니다.",
+  
+  // Stuff in the settings menu. Only how much friendship supports new lines, though if you need them please feel free to ask.
+  
+ "settings.show-notifications": "알림 표시",
+"settings.show-notifications.description": "마을 사람을 볼 때 알림을 표시합니다.",
+
+"settings.notification-duration": "알림 표시 시간",
+"settings.notification-duration.description": "알림이 표시되는 시간 (단위: 밀리초, 1000 = 1초)",
+
+"settings.range": "탐지 범위",
+"settings.range.description": "모드가 NPC를 감지할 거리 범위입니다.",
+
+"settings.how-much-friendship": "우정 증가량",
+"settings.how-much-friendship.description": "NPC와의 우정이 얼마나 오를지 설정합니다. {{newline}}1하트는 250포인트이며, 일반 NPC의 하루 우정 감소는 -2포인트입니다.",
+
+"settings.request-for-translations": "다른 언어나 기존 번역을 수정하고 싶다면, GitHub에서 번역에 참여해주세요!",
+"settings.request-for-accidental-encounters": "보이면 안 되는 NPC에게 알림이 뜬다면, Nexus 페이지나 GitHub에 알려주세요!"
+}
