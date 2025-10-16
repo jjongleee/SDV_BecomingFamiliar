@@ -47,14 +47,14 @@
   
   // Stuff in the settings menu. Only how much friendship supports new lines, though if you need them please feel free to ask.
   
- "settings.show-notifications": "알림 표시",
-"settings.show-notifications.description": "마을 사람을 볼 때 알림을 표시합니다.",
+"settings.show-notifications": "알림 표시",
+"settings.show-notifications.description": “근처에 마을 사람이 있으면 알림을 표시합니다.”,
 
 "settings.notification-duration": "알림 표시 시간",
 "settings.notification-duration.description": "알림이 표시되는 시간 (단위: 밀리초, 1000 = 1초)",
 
 "settings.range": "탐지 범위",
-"settings.range.description": "모드가 NPC를 감지할 거리 범위입니다.",
+"settings.range.description": "NPC를 인식할 수 있는 범위를 설정합니다.",
 
 "settings.how-much-friendship": "우정 증가량",
 "settings.how-much-friendship.description": "NPC와의 우정이 얼마나 오를지 설정합니다. {{newline}}1하트는 250포인트이며, 일반 NPC의 하루 우정 감소는 -2포인트입니다.",
